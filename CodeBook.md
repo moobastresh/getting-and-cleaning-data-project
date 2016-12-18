@@ -70,6 +70,7 @@ There are 6 activities labels,
 6 LAYING
 
 For the tidy data, I only select the features with Mean or Std in the names. It extracts 79 features from the total 561 features.
+
  [1] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
  [3] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
  [5] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
