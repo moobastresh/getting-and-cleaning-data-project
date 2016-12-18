@@ -110,4 +110,5 @@ For the tidy data, I only select the features with Mean or Std in the names. It 
 [75] "fBodyBodyGyroMag-std()"          "fBodyBodyGyroMag-meanFreq()"    
 [77] "fBodyBodyGyroJerkMag-mean()"     "fBodyBodyGyroJerkMag-std()"     
 [79] "fBodyBodyGyroJerkMag-meanFreq()"
+
 I also compute the average of each feature for each subject and each activity label. (30 objects in total, which is merged by the test and the train datasets)
