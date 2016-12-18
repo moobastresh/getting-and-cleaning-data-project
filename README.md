@@ -26,4 +26,4 @@ I only extract the features with "mean" or "std" in them, and make a new data ta
 Finally I compute the average of each feature for each subject and each activity label. 
 It generates a file "tidy_data.txt" as an output. 
 
-The "CodeBook.md" explain the variables of tidy_data, and how they are generated. 
+The "CodeBook.md" explains the variables of tidy_data, and how they are generated. 
