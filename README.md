@@ -30,3 +30,6 @@ The column names of the X.test/X.train are changed by the "features".
 The binded test and train data are merged together. 
 I only extract the features with "mean" or "std" in them, and make a new data table. 
 Finally I compute the average of each feature for each subject and each activity label. 
+It generates a file "tidy_data.txt" as an output. 
+
+The "CodeBook.md" explain the variables of tidy_data, and how they are generated. 
